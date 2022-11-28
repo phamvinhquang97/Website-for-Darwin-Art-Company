@@ -1,0 +1,6 @@
+$servername = "localhost:3306";
+$username = "s332985_group13";
+$password = "Vinhquang1997";
+$dbname = "s332985_shoppingcart";
+
+$con = mysqli_connect('localhost:3306','s332985_group13','Vinhquang1997');
